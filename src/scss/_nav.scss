@@ -1,0 +1,22 @@
+.nav {
+    width: 15%;
+    min-width: 140px;
+    color: $primary-color;
+    padding-top: 55px;
+    padding-right: 30px;
+    text-align: center;
+    font-size: 95rem;
+    h4 {
+      -webkit-margin-before: 0;
+      margin-left: 50px;
+    }
+  }
+a:link { 
+    background-color: yellow;
+}
+a:hover { 
+    text-decoration: none;
+}
+a:visited { 
+    color: pink;
+}
